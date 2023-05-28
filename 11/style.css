@@ -1,0 +1,43 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#n1{
+	display:flex;
+	background-color:gray;
+	justify-content:space-between;
+	align-items: center;
+	padding:6px;
+}
+#n2{
+	display:flex;
+	align-items: center;
+	background-image: linear-gradient(gray, Aqua);	
+}
+.link_back{
+	color:#0099ff;
+	font-size:35pt;
+}
+.chat_mambers{
+	color:#ccccff;
+}
+#n3{
+	background-image:url("images/chat_background.jpg");
+	background-attachment: fixed;
+}
+.chat{
+	background-color: #d9d9d9;
+	padding:10px;
+	max-width:300px;
+	border-radius:5px;
+	margin-left:20px;
+	margin-bottom:40px;
+}
+.inform{
+	display:flex;
+	justify-content:center;
+	background-color:#009999;
+	border-radius:5px;
+	max-width:300px;
+	margin-left:575px;
+}
